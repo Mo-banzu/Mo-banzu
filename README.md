@@ -26,12 +26,12 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/Mo-banzu"><img src="https://github-readme-stats.vercel.app/api?username=Mo-banzu&show_icons=true&hide_border=true&hide_title=true&title_color=00ccff&text_color=808080&icon_color=00ccff&bg_color=00000000" width=640></a>
-<a href="https://github.com/Mo-banzu"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mobanzu&layout=compact&hide_border=true&hide_title=true&title_color=00ccff&text_color=808080&bg_color=00000000" width=640></a>
+<a href="https://github.com/Mo-banzu"><img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Mo-banzu" width=640></a>
+<a href="https://github.com/Mo-banzu"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-banzu&layout=compact&hide_border=true&hide_title=true&title_color=000000&text_color=000000&bg_color=ffffff" width=640></a>
 </p>
 
 <p align="center">
-<img src="https://github.com/Mobanzu/Mobanzu/blob/main/assets/line.gif" width=640>
+<img src="https://github.com/Mobanzu/Mobanzu/blob/main/assets/line.gif" width=640 high=1>
 </p>
 
 <p align="center">
