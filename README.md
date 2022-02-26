@@ -26,8 +26,8 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/Mobanzu"><img src="https://github-readme-stats.vercel.app/api?username=Mobanzu&show_icons=true&hide_border=true&hide_title=true&title_color=00ccff&text_color=808080&icon_color=00ccff&bg_color=00000000" width=640></a>
-<a href="https://github.com/Mobanzu"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mobanzu&layout=compact&hide_border=true&hide_title=true&title_color=00ccff&text_color=808080&bg_color=00000000" width=640></a>
+<a href="https://github.com/Mo-banzu"><img src="https://github-readme-stats.vercel.app/api?username=Mo-banzu&show_icons=true&hide_border=true&hide_title=true&title_color=00ccff&text_color=808080&icon_color=00ccff&bg_color=00000000" width=640></a>
+<a href="https://github.com/Mo-banzu"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mobanzu&layout=compact&hide_border=true&hide_title=true&title_color=00ccff&text_color=808080&bg_color=00000000" width=640></a>
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/Mobanzu"><img src="https://badges.pufler.dev/visits/Mobanzu/Mobanzu?style=social&logo=github"></a>
+<a href="https://github.com/Mo-banzu"><img src="https://badges.pufler.dev/visits/Mo-banzu/Mo-banzu?style=social&logo=github"></a>
 </p>
 
 <!---
