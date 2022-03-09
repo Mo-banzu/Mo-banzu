@@ -5,8 +5,8 @@
 
 <p align="center">
 <a href="https://line.me/ti/p/~mo-banzu"><img src="https://img.shields.io/badge/LINE-00c300.svg?&style=for-the-badge&logo=line&logoColor=ffffff" height=24></a>
-<a href="https://www.webtoons.com"><img src="https://img.shields.io/badge/LINE WEBTOON-00d564.svg?&style=for-the-badge&logo=line-webtoon&logoColor=ffffff" height=24></a>
 <a href="https://instagram.com/mo.banzu"><img src="https://img.shields.io/badge/Instagram-e4405f.svg?&style=for-the-badge&logo=instagram&logoColor=ffffff" height=24></a>
+<a href="https://facebook.com/HELLTERHEAD"><img src="https://img.shields.io/badge/Facebook-1877f2.svg?&style=for-the-badge&logo=facebook&logoColor=ffffff" height=24></a>
 <a href="https://twitter.com/mo_banzu"><img src="https://img.shields.io/badge/Twitter-1da1f2.svg?&style=for-the-badge&logo=twitter&logoColor=ffffff" height=24></a>
 <a href="https://pinterest.com/mobanzu"><img src="https://img.shields.io/badge/Pinterest-bd081c.svg?&style=for-the-badge&logo=pinterest&logoColor=ffffff" height=24></a>
 <a href="https://spotify.com/mo.banzu"><img src="https://img.shields.io/badge/Spotify-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=ffffff" height=24></a>
@@ -15,6 +15,7 @@
 <a href="https://www.autodesk.com"><img src="https://img.shields.io/badge/Autodesk-0696d7.svg?&style=for-the-badge&logo=autodesk&logoColor=ffffff" height=24></a>
 <a href="https://www.adobe.com"><img src="https://img.shields.io/badge/Adobe Photoshop-31a8ff.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=ffffff" height=24></a>
 <a href="https://www.javascript.com"><img src="https://img.shields.io/badge/JavaScript-f7df1e.svg?&style=for-the-badge&logo=javascript&logoColor=000000" height=24></a>
+<a href="https://go.dev"><img src="https://img.shields.io/badge/Golang-00add8.svg?&style=for-the-badge&logo=go&logoColor=ffffff" height=24></a>
 <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776ab.svg?&style=for-the-badge&logo=python&logoColor=ffffff" height=24></a>
 <a href="https://html.com"><img src="https://img.shields.io/badge/HTML-e34f26.svg?&style=for-the-badge&logo=html5&logoColor=ffffff" height=24></a>
 <a href="https://www.w3.org"><img src="https://img.shields.io/badge/CSS-1572b6.svg?&style=for-the-badge&logo=css3&logoColor=ffffff" height=24></a>
