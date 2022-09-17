@@ -65,7 +65,7 @@
     <a href="https://github.com/Mo-banzu">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-banzu&layout=compact&hide_border=true&hide_title=true&title_color=000000&text_color=000000&bg_color=ffffff" width=640>
     </a>
-    <a href="https://github.com/Mo-banzu"><img src="https://streak-stats.demolab.com?user=Mo-banzu&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF&stroke=CCCCCC&ring=FF0000&fire=FF0000&currStreakNum=000000&sideNums=555555&currStreakLabel=000000&sideLabels=FF0000&dates=AAAAAA" width=640>
+    <a href="https://github.com/Mo-banzu"><img src="https://streak-stats.demolab.com?user=Mo-banzu&no_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF&stroke=CCCCCC&ring=FF0000&fire=FF0000&currStreakNum=000000&sideNums=555555&currStreakLabel=000000&sideLabels=FF0000&dates=AAAAAA" width=640>
     </a>
 </p>
 
