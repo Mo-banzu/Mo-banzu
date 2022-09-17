@@ -74,7 +74,7 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/Mo-banzu"><img src="https://badges.pufler.dev/visits/Mo-banzu/Mo-banzu?style=social&logo=github"></a>
+    <a href="https://github.com/Mo-banzu"><img src="https://komarev.com/ghpvc/?username=Mo-banzu&label=HIT+ME+!&color=AAAAAA&style=flat"></a>
 </p>
 
 <!---
