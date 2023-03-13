@@ -1,10 +1,10 @@
 <p align="center">
-    <img src="https://github.com/Mobanzu/Mobanzu/blob/main/assets/typewriter.gif" width=640>
-    <img src="https://github.com/Mobanzu/Mobanzu/blob/main/assets/activity.gif" width=640>
+    <a href="https://github.com/Mo-banzu">
+        <img src="https://i.giphy.com/media/qwi7fF1bfJQMPlTZ43/giphy.webp" width=640>
+    </a>
 </p>
-
 <p align="center">
-    <a href="https://line.me/ti/p/~mo.banzu">
+    <a href="https://line.me/ti/p/~mo-banzu">
         <img src="https://img.shields.io/badge/LINE-00c300.svg?&style=for-the-badge&logo=line&logoColor=ffffff" height=24>
     </a>
     <a href="https://instagram.com/mo.banzu">
@@ -53,7 +53,6 @@
         <img src="https://img.shields.io/badge/Buy Me A Coffee-ffdd00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=000000" height=24>
     </a>
 </p>
-
 <p align="center">
     <a href="https://github.com/Mo-banzu">
         <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Mo-banzu" width=640>
@@ -62,9 +61,10 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-banzu&layout=compact&hide_border=true&hide_title=true&title_color=000000&text_color=000000&bg_color=ffffff" width=640>
     </a>
 </p>
-
 <p align="center">
-    <a href="https://github.com/Mo-banzu"><img src="https://komarev.com/ghpvc/?username=Mo-banzu&label=HIT+ME+!&color=AAAAAA&style=for-the-badge" height=24></a>
+    <a href="https://github.com/Mo-banzu">
+        <img src="https://komarev.com/ghpvc/?username=Mo-banzu&label=HIT+ME+!&color=AAAAAA&style=for-the-badge" height=24>
+    </a>
 </p>
 
 <!---
