@@ -1,7 +1,4 @@
 <p align="center">
-    <a href="https://github.com/Mo-banzu">
-        <img align="left" width="100" height="100" src="https://i.giphy.com/media/qwi7fF1bfJQMPlTZ43/giphy.webp">
-    </a>
     <a href="https://line.me/ti/p/~mo-banzu">
         <img src="https://img.shields.io/badge/LINE-00c300.svg?&style=for-the-badge&logo=line&logoColor=ffffff">
     </a>
